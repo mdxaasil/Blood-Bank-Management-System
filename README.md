@@ -11,5 +11,4 @@
 
 
 ## Checkout the detailed video presentation for more info
-[![BBMS](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=NMk7hP3n0fU)
-
+https://www.youtube.com/watch?v=NMk7hP3n0fU
